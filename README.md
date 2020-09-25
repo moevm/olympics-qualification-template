@@ -1,5 +1,5 @@
-# qualification-template
-## Шаблон для квалификационной задачи олимпиады
+# olympics-qualification-template
+## Шаблон квалификационного решения для олимпиады Autonomous Driving Olympics 2020
 
 ## Описание структуры шаблона
 
